@@ -8,7 +8,8 @@
 
 <body>
   <div id="divMain">
-    <?php include "navbar.php" ?>
+    <?php include "topbar.php" ?>
+    <?php include "botbar.php" ?>
   </div>
 </body>
 

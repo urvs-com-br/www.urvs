@@ -1,5 +1,5 @@
 <style>
-<?php include "navbar.css"?>
+<?php include "topbar.css"?>
 </style>
 <div id="divNavBar">
   <div id="divLogo">
