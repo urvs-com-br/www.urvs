@@ -47,7 +47,17 @@ a {
   color: #2100a9;
 }
 
+h1 {
+  margin-bottom: 27px;
+}
+
+h2 {
+  margin-bottom: 18px;
+}
+
 #divMain {
   margin: auto;
   max-width: 900px;
+  display: flex;
+  flex-direction: column;
 }
