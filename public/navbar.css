@@ -1,0 +1,66 @@
+#divNavBar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+#divLogo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#divLogo .spanLogo {
+  font-family: "Elephant", serif;
+  font-size: 45px;
+  display: flex;
+}
+
+#divLogo .ulLogo {
+  font-family: "Euphorigenic", serif;
+  font-size: 18px;
+  font-weight: normal;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#divLogo .letterU {
+  color: #002e00ff;
+}
+
+#divLogo .letterR {
+  color: #00002eff;
+}
+
+#divLogo .letterV {
+  color: #2e0000ff;
+}
+
+#divLogo .letterS {
+  color: #2e002eff;
+}
+
+#divLogin {
+  display: flex;
+  flex-flow: column;
+}
+
+#divLogin div {
+  margin: 3px;
+}
+
+#divLogin .entrance {
+  font-size: 1.4rem;
+}
+
+#divLogin .options {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+#divLogin .options span {
+  font-size: 1rem;
+}
