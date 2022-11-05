@@ -24,6 +24,11 @@
   src: url("assets/lato.ttf");
 }
 
+@font-face {
+  font-family: "Roboto";
+  src: url("assets/roboto.ttf");
+}
+
 body {
   font-family: "Lato", sans-serif;
   font-size: 18px;
@@ -32,6 +37,7 @@ body {
 }
 
 input {
+  font-family: "Roboto", sans-serif;
   padding: 5px;
   border: 1px solid #180027;
   border-radius: 3px;
