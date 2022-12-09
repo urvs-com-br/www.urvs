@@ -3,12 +3,12 @@
 <html>
 
 <head>
-  <?php include "head.php" ?>
+  <?php include("head.php") ?>
 </head>
 
 <body>
   <div id="divMain">
-    <?php include "topbar.php" ?>
+    <?php include("bar-upper.php") ?>
     <div style="text-align: center">
       <h1>Nova Conta</h1>
       <h2>Enviar o Convite para:</h2>
@@ -17,7 +17,7 @@
         <input type="submit" value="Enviar">
       </form>
     </div>
-    <?php include "botbar.php" ?>
+    <?php include("bar-under.php") ?>
   </div>
 </body>
 

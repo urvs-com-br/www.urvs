@@ -1,8 +1,7 @@
-<style>
-<?php include "topbar.css"?>
-</style>
+<style><?php include("bar-upper.css") ?></style>
+<script><?php include("bar-upper.js") ?></script>
 <div id="divNavBar">
-  <div id="divLogo">
+  <div id="divLogo" onclick="barUpperGoToIndex()">
     <span class="spanLogo">
       <span class="letterU">U</span>
       <span class="letterR">R</span>

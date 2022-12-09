@@ -3,13 +3,13 @@
 <html>
 
 <head>
-  <?php include "head.php" ?>
+  <?php include("head.php") ?>
 </head>
 
 <body>
   <div id="divMain">
-    <?php include "topbar.php" ?>
-    <?php include "botbar.php" ?>
+    <?php include("bar-upper.php") ?>
+    <?php include("bar-under.php") ?>
   </div>
 </body>
 

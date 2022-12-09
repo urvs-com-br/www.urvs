@@ -9,6 +9,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  cursor: pointer;
 }
 
 #divLogo .spanLogo {
@@ -28,19 +29,19 @@
 }
 
 #divLogo .letterU {
-  color: #002e00ff;
+  color: #005c00ff;
 }
 
 #divLogo .letterR {
-  color: #00002eff;
+  color: #00005cff;
 }
 
 #divLogo .letterV {
-  color: #2e0000ff;
+  color: #5c0000ff;
 }
 
 #divLogo .letterS {
-  color: #2e002eff;
+  color: #5c005cff;
 }
 
 #divLogin {
