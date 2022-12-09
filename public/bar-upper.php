@@ -25,6 +25,7 @@
       <form action="enter.php" method="post">
         <input placeholder="E-mail" type="text" name="email" size="12">
         <input type="password" name="pass" size="12">
+        <input type="submit" value=">>">
       </form>
     </div>
     <div class="options">
