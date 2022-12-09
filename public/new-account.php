@@ -13,8 +13,8 @@
       <h1>Nova Conta</h1>
       <h2>Enviar o Convite para:</h2>
       <form action="send-invitation.php" method="post">
-        <input type="text" name="email" placeholder="E-mail">
-        <input type="submit" value="Enviar">
+        <input type="text" name="email" placeholder="E-mail" size="30">
+        <input type="submit" value=">>">
       </form>
     </div>
     <?php include("bar-under.php") ?>
